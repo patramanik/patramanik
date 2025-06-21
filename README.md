@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Enthusiast;REST+API+Specialist;Problem+Solver;Code+Craftsman)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Flutter+Enthusiast+%7C+Mobile+Expert;REST+API+Specialist;Transforming+Ideas+into+Code)](https://git.io/typing-svg)
   
 </div>
 
@@ -14,22 +14,46 @@
 
 ## 🚀 About Me
 
-```javascript
-const manik = {
-    location: "West Bengal, India 🇮🇳",
-    code: ["Java", "Python", "JavaScript", "PHP", "Dart"],
-    askMeAbout: ["Flutter", "Spring Boot", "REST APIs", "Full Stack Development"],
-    technologies: {
-        mobile: ["Flutter", "Android"],
-        frontEnd: ["React", "JavaScript", "HTML5", "CSS3"],
-        backEnd: ["Node.js", "Spring Boot", "Laravel", "PHP"],
-        databases: ["MySQL", "MongoDB", "Oracle"],
-        tools: ["Git", "Docker", "Postman", "VS Code"]
-    },
-    currentFocus: "Building scalable mobile and web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Who Am I?
+🎯 **Full Stack Developer** passionate about creating innovative solutions  
+🌟 **Problem Solver** who loves turning complex ideas into simple, elegant code  
+🚀 **Tech Enthusiast** constantly exploring new technologies and frameworks  
+💡 **Innovation Driver** focused on building scalable applications
+
+</td>
+<td align="center" width="50%">
+
+### 🌍 Quick Facts
+📍 **Based in:** West Bengal, India 🇮🇳  
+💼 **Experience:** Full Stack Development  
+🎯 **Focus:** Mobile & Web Applications  
+⚡ **Superpower:** Debugging with style!
+
+</td>
+</tr>
+</table>
+
+### 🎨 What I Bring to the Table
+
+<div align="center">
+
+| 📱 **Mobile Development** | 🌐 **Web Development** | 🔧 **Backend Systems** | 📊 **Database Design** |
+|:---:|:---:|:---:|:---:|
+| Flutter Apps | React Applications | REST APIs | MySQL & MongoDB |
+| Cross-platform Solutions | Responsive UI/UX | Spring Boot Services | Data Architecture |
+| Play Store Publishing | Modern Web Standards | Authentication Systems | Performance Optimization |
+
+</div>
+
+### 💭 Philosophy
+*"Great software is not just about writing code - it's about solving real problems and creating experiences that matter."*
+
+</div>
 
 ---
 
@@ -116,16 +140,28 @@ const manik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<table>
+<tr>
+<td width="50%">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
+![Manik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+
 </div>
 
 ---
@@ -156,24 +192,15 @@ const manik = {
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Current Focus & Goals
 
 <div align="center">
 
-```yaml
-learning:
-  - Advanced Spring Boot Microservices
-  - Flutter Web Development
-  - Cloud Technologies (AWS/GCP)
-  - DevOps & CI/CD
-  - System Design Patterns
-
-interests:
-  - Mobile App Development
-  - API Design & Architecture
-  - Database Optimization
-  - Performance Tuning
-```
+| 🔥 *Currently Working On* | 🎓 *Learning* | 🎯 *Goals 2025* |
+|:---|:---|:---|
+| Advanced Flutter Web Development | Spring Boot Microservices | Launch 5 major projects |
+| E-commerce Platform Optimization | Cloud Technologies (AWS/GCP) | Contribute to open source |
+| REST API Performance Tuning | DevOps & CI/CD Pipelines | Speaking at tech conferences |
 
 </div>
 
@@ -195,14 +222,24 @@ interests:
 
 <div align="center">
   
+<div align="center">
+  
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+### 💌 Let's Build Something Amazing Together!
+
+*📧 Email:* [manikpatra409@gmail.com](mailto:manikpatra409@gmail.com)  
+*📱 Phone:* [+91-891-832-7205](tel:+918918327205)  
+*🌍 Location:* West Bengal, India 🇮🇳
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
