@@ -106,8 +106,8 @@
 - 💰 AdMob monetization
 - 📊 Analytics and user tracking
 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=your.app.id)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/biology-learner)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.biologylearner.biology_learner_app&hl=en)
+<!-- [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/biology-learner) -->
 
 ---
 
@@ -118,8 +118,8 @@
 - 📦 Inventory management
 - 📱 Responsive design
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/shopcart)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-demo-link.com)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/patramanik/shopcart)
+<!-- [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://your-demo-link.com) -->
 
 ---
 
@@ -130,8 +130,8 @@
 - 📈 Real-time analytics
 - 🚀 High-performance endpoints
 
-[![GitHub](https://img.shields.io/badge/API_Docs-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/vendor24)
-[![Postman](https://img.shields.io/badge/API_Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/your-collection)
+[![GitHub](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github)](https://github.com/manikpatra/vendor24)
+<!-- [![Postman](https://img.shields.io/badge/API_Collection-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/your-collection) -->
 
 </div>
 
@@ -212,7 +212,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-patra-158429199/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patramanik)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikpatra409@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=manikpatra409@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918918327205)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
 
@@ -228,18 +228,18 @@
 
 ### 💌 Let's Build Something Amazing Together!
 
-*📧 Email:* [manikpatra409@gmail.com](mailto:manikpatra409@gmail.com)  
+*📧 Email:* [manikpatra409@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=manikpatra409@gmail.com)  
 *📱 Phone:* [+91-891-832-7205](tel:+918918327205)  
 *🌍 Location:* West Bengal, India 🇮🇳
 
 ---
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=patramanik&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=patramanik&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div> -->
+</div>
 
-<!-- --- -->
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
